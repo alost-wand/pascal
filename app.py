@@ -1,6 +1,7 @@
 import streamlit as st
 from PIL import Image, ImageDraw, ImageFont
 import io
+import plotly
 import plotly.graph_objects as go
 import numpy as np
 
